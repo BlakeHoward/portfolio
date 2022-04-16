@@ -12,17 +12,33 @@
 		<sy:updateFrequency>1</sy:updateFrequency>
 		<link>http://localhost:4000/</link>
 		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-		<lastBuildDate>Sun, 20 Mar 2022 00:00:00 -0400</lastBuildDate>
+		<lastBuildDate>Sat, 16 Apr 2022 00:00:00 -0400</lastBuildDate>
 		
+		
+            
+                <item>
+                    <title>Paper Plane</title>
+                    
+                        <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
+&lt;p&gt;Here I’ll talk a bit about Paper Plane and how I made it.&lt;/p&gt;
+</description>
+                    <pubDate>Sat, 16 Apr 2022 00:00:00 -0400</pubDate>
+                    <link>http://localhost:4000/2022/04/16/paper-plane.html</link>
+                    <guid isPermaLink="true">http://localhost:4000/2022/04/16/paper-plane.html</guid>
+                </item>
+            
 		
             
                 <item>
                     <title>Development Docs</title>
                     
-                        <description>&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
+                        <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
+&lt;p&gt;This post has details of how I made this website. You can follow the instructions below to make your own.&lt;/p&gt;
+
+&lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/docs/installation/&quot; target=&quot;_blank&quot;&gt;Install Jekyll&lt;/a&gt; &lt;i class=&quot;fa fa-external-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/li&gt;
-  &lt;li&gt;Fork/Clone/Download &lt;a href=&quot;https://github.com/blakehoward/portfolio.git&quot; target=&quot;_blank&quot;&gt;Pudhina Fresh&lt;/a&gt; &lt;i class=&quot;fa fa-external-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/li&gt;
+  &lt;li&gt;Fork/Clone/Download &lt;a href=&quot;https://github.com/blakehoward/portfolio.git&quot; target=&quot;_blank&quot;&gt;this portfolio’s repo&lt;/a&gt; &lt;i class=&quot;fa fa-external-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/li&gt;
   &lt;li&gt;Configure &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Add posts in &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt;, add projects in &lt;code class=&quot;highlighter-rouge&quot;&gt;_data/projects.yml&lt;/code&gt; and, customize the main page &lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Run &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt; to test out the site at &lt;a href=&quot;http://localhost:4000/&quot; target=&quot;_blank&quot;&gt;localhost:4000&lt;/a&gt; &lt;i class=&quot;fa fa-external-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;&lt;/li&gt;
@@ -134,7 +150,7 @@
 &lt;p&gt;Current development status is active. If resources allow, fixes will be made as soon as they are found and features will be added as soon as they are deemed fit. Feel free to contribute to this portfolio by opening a pull request on &lt;a href=&quot;https://github.com/blakehoward/portfolio&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;questions-and-comments&quot;&gt;Questions and Comments&lt;/h2&gt;
-&lt;p&gt;Feel free to open a new issue on &lt;a href=&quot;https://github.com/ritijjain/blakehoward/portfolio&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt; &lt;i class=&quot;fa fa-external-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; for questions and comments regarding this portfolio.&lt;/p&gt;
+&lt;p&gt;Feel free to open a new issue on &lt;a href=&quot;https://github.com/blakehoward/portfolio&quot; target=&quot;_blank&quot;&gt;GitHub&lt;/a&gt; &lt;i class=&quot;fa fa-external-link&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; for questions and comments regarding this portfolio.&lt;/p&gt;
 </description>
                     <pubDate>Sun, 20 Mar 2022 00:00:00 -0400</pubDate>
                     <link>http://localhost:4000/2022/03/20/docs.html</link>

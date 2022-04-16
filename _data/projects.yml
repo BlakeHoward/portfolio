@@ -1,11 +1,11 @@
 - name: Paper Plane # Project name, also used as heading
   id: p1 # Project id, must be unique amongst the projects
-  img_src: /assets/img/connectpie-page.png # Optional image
-  description_less: This part of the project description is visible at all times. # Description shown at all times, text only
-  description_more: > # Description shown only when the project card is expanded, HTML only
-    <p>This part is only seen when you click on the project card.</p> 
+  img_src: /assets/img/paper-plane-thumb.png # Optional image
+  description_less: Making a cocktail called the Paper Plane. # Description shown at all times, text only
+  # description_more: > # Description shown only when the project card is expanded, HTML only
+  #   <p>This part is only seen when you click on the project card.</p> 
   action_buttons: > # Action buttons for project, HTML only
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-code-branch"></i> &nbsp Repository</a>
-    <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
-  tags: [tag1, tag2] # A list of tags
+    <a href="https://www.youtube.com/watch?v=XdzB105gT9Q&t=1s" target="_blank" class="btn btn-dark mb-1"><i class="fab fa-youtube fa-lg"></i> &nbsp Watch on YouTube</a>
+    <a href="2022/04/16/paper-plane.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+  tags: [film, cinematography, alcohol, cheers] # A list of tags
 
