@@ -12,17 +12,20 @@ function render_dark_mode_icon(darkmode, id) {
   if (darkmode.isActivated()) {
     document.getElementById(id).classList.remove("fa-sun");
     document.getElementById(id).classList.add("fa-moon");
-    if (!window.mobileCheck()) {
-      for (i = 0; i < x.length; i++) {
+    for (i = 0; i < x.length; i++) {
+      if (window.mobileCheck()) {
+        x[i].style["mix-blend-mode"] = "normal";
+      } else {
         x[i].style["mix-blend-mode"] = "difference";
       }
     }
-
   } else {
     document.getElementById(id).classList.remove("fa-moon");
     document.getElementById(id).classList.add("fa-sun");
-    if (!window.mobileCheck()) {
-      for (i = 0; i < x.length; i++) {
+    for (i = 0; i < x.length; i++) {
+      if (window.mobileCheck()) {
+        x[i].style["mix-blend-mode"] = "difference";
+      } else {
         x[i].style["mix-blend-mode"] = "normal";
       }
     }
