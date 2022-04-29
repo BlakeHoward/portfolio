@@ -7,7 +7,6 @@ url: "https://blakehoward.github.io/portfolio" # Site base URL
 author:
   name: Blake Howard
   github: blakehoward # GitHub username, used for GitHub icon on the top right
-  linkedin: ritijjain # Your LinkedIn profile url name, used for LinkedIn icon on the top right
   email: blakethomashoward@gmail.com # Used for email icon on the top right
   homepage: https://blake.how # This links to your name in post meta
   twitter: # Twitter username, used for Twitter Card Analytics 

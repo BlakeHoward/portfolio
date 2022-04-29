@@ -632,3 +632,17 @@ a.logo:hover {
     text-shadow: -1px 0 0 blue, 1px 0 0 lime;
   }
 }
+
+/* mobile screens */
+@media only screen and (max-width: 640px) {
+  #headshot{
+  width: 100%;
+  }
+}
+
+/* tablet screens */
+@media only screen and (min-width: 768px) {
+  #headshot{
+  width: 40%;
+  }
+}

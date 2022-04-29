@@ -19,8 +19,49 @@
                 <item>
                     <title>Paper Plane</title>
                     
-                        <description>&lt;h2 id=&quot;about&quot;&gt;About&lt;/h2&gt;
-&lt;p&gt;Here I’ll talk a bit about Paper Plane and how I made it.&lt;/p&gt;
+                        <description>&lt;h1 id=&quot;about&quot;&gt;About&lt;/h1&gt;
+
+&lt;p&gt;This is a short video of me making a delicioius whiskey-based cocktail called the Paper Plane. You can watch it &lt;a href=&quot;https://www.youtube.com/watch?v=XdzB105gT9Q&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is the first video I made with the Canon C70. It’s also the first video I made using a camera that shoots a log profile (C-Log3 specifically, but I’ll just call it log). This resulted in a bit of a learning curve since I then had to figure out how to color my footage. Once I got the hang of using Davinci Resolve, I was stunned with the colors that could be pulled from the defualt, greyish log footage. I also love the narrow depth of field that was possible with the C70 and the lens I used, the RF 35mm F1.8 Macro. Close-ups of equipment such as the glass I poured the drink into and the liquor bottles had an isolated, crisp look, which I am a fan of.&lt;/p&gt;
+
+&lt;p&gt;All in all, I’m happy with this video, but there are things I would do differently.&lt;/p&gt;
+
+&lt;h1 id=&quot;lessons-learned&quot;&gt;Lessons Learned&lt;/h1&gt;
+
+&lt;h3 id=&quot;remember-to-check-your-profile-before-shooting&quot;&gt;Remember to check your profile before shooting&lt;/h3&gt;
+
+&lt;p&gt;Since I was so new to shooting in log, I would frequently switch back and forth from it to Rec. 709 in order to see how my colors look. Several times I would forget to switch back to log and record a whole section of the video in the wrong profile. Sometimes only realizing it when I got to editing, which sucked.&lt;/p&gt;
+
+&lt;p&gt;One solution to this is to not be an idiot and just switch back to log, Blake. Another is to get a field monitor that you can program a LUT into so that the camera still records in log, but you see nice colors in the monitor. This costs money though, which I didn’t feel like spending.&lt;/p&gt;
+
+&lt;p&gt;At the end I reshot stuff, which was a hassle, but necessary.&lt;/p&gt;
+
+&lt;h3 id=&quot;plan-plan-plan-your-shots&quot;&gt;Plan Plan Plan your shots&lt;/h3&gt;
+
+&lt;p&gt;I can’t overstate how crucial it is to plan out your shot schedule before the day that shooting takes place. I really can’t. It saves so many resources. It saves everyone’s time and energy, and it also saves your credibility as a director.&lt;/p&gt;
+
+&lt;p&gt;For this video in particular, I scheduled about half of the shots before hand, the ones I predicted to be more difficult, and left the others to be essentially improvised. When the time came to shoot the unplanned ones, I had to pivot from my more technical “lights go here,” “this lens on,” “pull focus here”  mode, to a more relaxed, creative mode in order to see what shot would fit well logically and artistically (&lt;em&gt;eye-roll&lt;/em&gt;) around the others that were already set in stone.&lt;/p&gt;
+
+&lt;p&gt;Unforunatley for me, I was the only one working on this video, so I didn’t have to pleasure of wasting other people’s time, just my own. But moving forward, and planning on working with others, I can’t afford to stop and plan a shot with this level of heads-down focus after everything was just go, go, go. It interrupts the inertia of everyone working on the set, and it takes away from your focus as a director to execute what was already planned and fix unexpected problems that pop up. And they will pop up.&lt;/p&gt;
+
+&lt;p&gt;Plan every shot, at least at a minimum, before the day of shooting.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;This was a fun video to plan, shoot, and edit. While my primary passion lies in narritve filmmaking, drinking is my secondary passion, which made this production enjoyable, along with expoloring a new camera, lens, and editing software. Although I made some mistakes, I’ve learned from them and will take that knowledge to my next project.&lt;/p&gt;
+
+&lt;h3 id=&quot;equipment-used&quot;&gt;Equipment Used&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Canon C70&lt;/li&gt;
+  &lt;li&gt;RF 35mm F1.8 Macro&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;software-used&quot;&gt;Software Used&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Editing: Adobe Premiere Pro&lt;/li&gt;
+  &lt;li&gt;Coloring: DaVinci Resolve&lt;/li&gt;
+&lt;/ul&gt;
 </description>
                     <pubDate>Sat, 16 Apr 2022 00:00:00 -0400</pubDate>
                     <link>http://localhost:4000/2022/04/16/paper-plane.html</link>
@@ -57,7 +98,6 @@
 &lt;span class=&quot;na&quot;&gt;author&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;Blake Howard&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;github&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;blakehoward/portfolio&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# GitHub username, used for GitHub icon on the top right&lt;/span&gt;
-  &lt;span class=&quot;na&quot;&gt;linkedin&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt;  &lt;span class=&quot;c1&quot;&gt;# Your LinkedIn profile url name, used for LinkedIn icon on the top right&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;example@example.com&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Used for email icon on the top right&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;homepage&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;https://blake.how&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# This links to your name in post meta&lt;/span&gt;
   &lt;span class=&quot;na&quot;&gt;twitter&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;# Twitter username, used for Twitter Card Analytics&lt;/span&gt;
