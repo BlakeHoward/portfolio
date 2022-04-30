@@ -15,6 +15,7 @@ function render_dark_mode_icon(darkmode, id) {
     for (i = 0; i < x.length; i++) {
       if (window.mobileCheck()) {
         x[i].style["mix-blend-mode"] = "normal";
+        window.alert("mobile")
       } else {
         x[i].style["mix-blend-mode"] = "difference";
       }
@@ -25,6 +26,7 @@ function render_dark_mode_icon(darkmode, id) {
     for (i = 0; i < x.length; i++) {
       if (window.mobileCheck()) {
         x[i].style["mix-blend-mode"] = "difference";
+        window.alert("mobile")
       } else {
         x[i].style["mix-blend-mode"] = "normal";
       }
