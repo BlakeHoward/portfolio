@@ -8,7 +8,7 @@ sitemap:
   priority: 1.0
 ---
 
-#### Blake Howard is a director, cinematographer, and software engineer based in Arlington, Virginia. Check out his work in the projects link above.
+#### Blake Howard is a director, cinematographer, and software engineer based in Arlington, Virginia.x
 <br>
 
 <img id="headshot" src="/assets/img/headshot.jpeg" alt="my face"/>
