@@ -14,7 +14,7 @@ function render_dark_mode_icon(darkmode, id) {
     document.getElementById(id).classList.add("fa-moon");
     for (i = 0; i < x.length; i++) {
       if (window.mobileCheck()) {
-        x[i].style["mix-blend-mode"] = "difference";
+        x[i].style["mix-blend-mode"] = "normal";
       } else {
         x[i].style["mix-blend-mode"] = "difference";
       }
