@@ -9,3 +9,13 @@
     <a href="2022/04/16/paper-plane.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   tags: [film, cinematography, alcohol, cheers] # A list of tags
 
+- name: Breakfast # Project name, also used as heading
+  id: p1 # Project id, must be unique amongst the projects
+  img_src: /assets/img/breakfast-thumb.png # Optional image
+  description_less: A morning routine # Description shown at all times, text only
+  # description_more: > # Description shown only when the project card is expanded, HTML only
+  #   <p>This part is only seen when you click on the project card.</p> 
+  action_buttons: > # Action buttons for project, HTML only
+    <a href="https://www.youtube.com/watch?v=-3razJv0UTc" target="_blank" class="btn btn-dark mb-1"><i class="fab fa-youtube fa-lg"></i> &nbsp Watch on YouTube</a>
+    <a href="2022/04/16/paper-plane.html" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
+  tags: [film, cinematography, food] # A list of tags
